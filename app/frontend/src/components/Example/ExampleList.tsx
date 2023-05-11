@@ -12,8 +12,8 @@ const EXAMPLES: ExampleModel[] = [
         text: "What has been the profit or loss reported?",
         value: "What has been the profit or losses repoorted?"
     },
-    { text: "What happens in a performance review?", value: "What happens in a performance review?" },
-    { text: "What does a Product Manager do?", value: "What does a Product Manager do?" }
+    { text: "What global frameworks and commitments are there?", value: "What global frameworks and commitments are there?" },
+    { text: "What does the Qantas fleet consist of?", value: "What does the Qantas fleet consist of?" }
 ];
 
 interface Props {
